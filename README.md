@@ -3,6 +3,7 @@
 - 🔭 I am a novice web developer
 - 🌱 I’m currently learning: React.js
 - :mortar_board: What I will learn in the future is: PHP
+- :e-mail: You can contact me: japoshvili777@gmail.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love draw :art: / play games :video_game: / movies :movie_camera:
 
@@ -14,3 +15,8 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+
+<br />
+<br />
+
+---
