@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: React.js
 - :mortar_board: I plan to learn: PHP
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Games :video_game:, Movies :movie_camera:
+- ⚡ Fun fact: I love draw :art: / play games :video_game: / movies :movie_camera:
 
 ### Languages and Tools:
 
