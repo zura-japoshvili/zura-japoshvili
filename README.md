@@ -2,7 +2,7 @@
 
 - 🔭 I am a novice web developer
 - 🌱 I’m currently learning: React.js
-- 👯 I’m looking to collaborate with other content creators
+- :mortar_board: I plan to learn: PHP
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Games :video_game:, Movies :movie_camera:
 
