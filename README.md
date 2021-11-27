@@ -1,10 +1,10 @@
 ### Hi there, I'm Zura Japoshvili Web Developer 👋
 
 - 🔭 I am a novice web developer
-- 🌱 I’m currently learning: React.js
-- :mortar_board: What I will learn in the future is: PHP
+- 🌱 I’m currently learning: PHP
+- :mortar_board: What I will learn in the future is: Laravel
 - :e-mail: You can contact me: japoshvili777@gmail.com
-- ⚡ Fun fact: I love draw :art: / play games :video_game: / movies :movie_camera:
+
 
 ### Languages and Tools:
 
