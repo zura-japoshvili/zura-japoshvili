@@ -24,3 +24,5 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zura-japoshvili&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
