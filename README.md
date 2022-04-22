@@ -1,8 +1,8 @@
 ### Hi there, I'm Zura Japoshvili Web Developer 👋
 
 - 🔭 I am a novice web developer
-- 🌱 I’m currently learning: PHP
-- :mortar_board: What I will learn in the future is: Laravel
+- 🌱 I’m currently learning: Angular
+- :mortar_board: What I will learn in the future is: ...
 - :e-mail: You can contact me: japoshvili777@gmail.com
 
 
